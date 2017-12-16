@@ -10,9 +10,9 @@ addons:
     organization: "praneshkumarthangavel-github"
     token:
       secure: "405a2c239b66a9b89ffc423bf1a09b136bed732e"
-#   sauce_connect:
-#     username: "kishanlalbj"
-#     access_key: "670e4c84-0b38-48b8-b49b-15c7b088bbdc"
+  sauce_connect:
+    username: "praneshkumarthangavel"
+    access_key: "5470f408-2d3f-47bc-a259-56732c2ea89f"
     
 script:
   - sonar-scanner
