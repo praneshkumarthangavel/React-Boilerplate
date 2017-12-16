@@ -5,11 +5,11 @@ language: node_js
 node_js:
   - "stable"
 
-# addons:
-#   sonarcloud:
-#     organization: "kishanlalbj-github"
-#     token:
-#       secure: "e08ad9eba1e57172dfc340ee920c951cb6ebb838"
+addons:
+  sonarcloud:
+    organization: "praneshkumarthangavel-github"
+    token:
+      secure: "405a2c239b66a9b89ffc423bf1a09b136bed732e"
 #   sauce_connect:
 #     username: "kishanlalbj"
 #     access_key: "670e4c84-0b38-48b8-b49b-15c7b088bbdc"
